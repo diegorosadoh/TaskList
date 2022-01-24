@@ -2,6 +2,8 @@
 
 Aplicación web que permite guardar y mostrar un listado de tareas o recordatorios. Se pueden añadir nuevas tareas, marcarlas como completadas, cambiar su prioridad y eliminarlas, así como filtrarlas mediante un campo de búsqueda.
 Este proyecto ha sido desarrollado con Vue CLI, diviéndolo en componentes para facilitar el reciclaje de código. Las funcionalidades de Vue permiten insertar nuevas tareas, disponerlas en una lista y editarlas dinámicamente.
+
+EN PRODUCCIÓN: https://diegorosadoh.github.io/taskList/
 <hr>
 
 ## Añadir tarea
